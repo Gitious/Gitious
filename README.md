@@ -12,7 +12,7 @@ Currently the founding AI engineer at **Legix**, where I built the entire AI sta
 
 Before that, I was making autonomous vehicles navigate farms at Boson Motors and building meeting transcription bots that handle 10+ concurrent sessions at Auto BIM Route.
 
-MS in Software Engineering from Arizona State (3.8 GPA). Published at IEEE. Certified on AWS, OCI, and IBM AI.
+MS in Software Engineering from Arizona State. Published at IEEE. Certified on AWS, OCI, and IBM AI.
 
 ---
 
