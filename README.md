@@ -42,7 +42,7 @@ MS in Software Engineering from Arizona State. Published at IEEE. Certified on A
 
 ### links
 
-[portfolio](https://gitious.github.io/portfolio/) · [linkedin](https://www.linkedin.com/in/menon-varun/) · [email](mailto:varunmenoff@gmail.com)
+[portfolio](https://www.varunm.com/) · [linkedin](https://www.linkedin.com/in/menon-varun/) · [email](mailto:varunmenoff@gmail.com)
 
 ---
 
