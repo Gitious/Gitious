@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=72&duration=4000&pause=99999&color=E8E8E8&center=true&vCenter=true&width=900&height=120&lines=Varun+Menon"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=72&duration=4000&pause=99999&color=171717&center=true&vCenter=true&width=900&height=120&lines=Varun+Menon"/>
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=72&duration=4000&pause=99999&color=171717&center=true&vCenter=true&width=900&height=120&lines=Varun+Menon" alt="Varun Menon"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=96&duration=4000&pause=99999&color=E8E8E8&center=true&vCenter=true&width=900&height=140&lines=Itious"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=96&duration=4000&pause=99999&color=171717&center=true&vCenter=true&width=900&height=140&lines=Itious"/>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=96&duration=4000&pause=99999&color=171717&center=true&vCenter=true&width=900&height=140&lines=Itious" alt="Itious"/>
 </picture>
 
 <picture>
@@ -31,30 +31,36 @@ MS in Software Engineering from Arizona State. Published at IEEE. Certified on A
 <p align="center">· · ·</p>
 
 ### stack
-<sub>tools, languages, and runtimes I lean on</sub>
 
 ```
-ai/ml          GraphRAG, Agentic Workflows, Context Engineering, Vector Search, LLM Eval, Confidence Calibration, MCP
-languages      Python, TypeScript, JavaScript, Rust, SQL, C++
-infra          AWS, GCP, Docker, Terraform, Temporal, Kafka
-data           PostgreSQL, pgvector, Pinecone, Neo4j, Redis
-web            Next.js, React, Flask, Hono
-observability  Langfuse, Axiom, Sentry
+ai/ml          │  GraphRAG · Agentic Workflows · Context Engineering · Vector Search · LLM Eval · Confidence Calibration · MCP
+languages      │  Python · TypeScript · JavaScript · Rust · SQL · C++
+infra          │  AWS · GCP · Docker · Terraform · Temporal · Kafka
+data           │  PostgreSQL · pgvector · Pinecone · Neo4j · Redis
+web            │  Next.js · React · Flask · Hono
+observability  │  Langfuse · Axiom · Sentry
 ```
 
 <p align="center">· · ·</p>
 
 ### now
-<sub>currently in my head</sub>
 
-- **long-horizon agent state.** How agents remember, forget, and recover across sessions.
-- **agentic AI research.** 8-phase study on how agents behave with progressive tool access.
-- **GraphRAG at scale.** Making it actually work across hundreds of classification categories.
+```
+01.  agent memory     long-horizon state, how agents remember and recover across sessions
+02.  agentic AI       8-phase study on how agents behave with progressive tool access
+03.  graphrag         scaling to hundreds of classification categories
+```
 
 <p align="center">· · ·</p>
 
 ### links
 
-[varunm.com](https://www.varunm.com/) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/menon-varun/) &nbsp;·&nbsp; [@Itious_](https://x.com/Itious_) &nbsp;·&nbsp; [varunmenoff@gmail.com](mailto:varunmenoff@gmail.com)
+[`varunm.com`](https://www.varunm.com/) &nbsp;&nbsp; [`linkedin`](https://www.linkedin.com/in/menon-varun/) &nbsp;&nbsp; [`@Itious_`](https://x.com/Itious_) &nbsp;&nbsp; [`email`](mailto:varunmenoff@gmail.com)
 
-<p align="center"><sub><i>↳ open to interesting problems.</i></sub></p>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gitious/Gitious/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gitious/Gitious/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Gitious/Gitious/output/github-snake.svg" />
+</picture>
