@@ -12,9 +12,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=900&color=6B6B6B&center=true&vCenter=true&width=820&height=36&lines=Founding+engineer+%40+Cognisos;Architecture+for+intelligent+systems;Things+that+think%2C+learn%2C+ship+to+prod" alt="tagline"/>
 </picture>
 
+<sub><i>Two-time founding engineer. Building AI that remembers.</i></sub>
+
 </div>
 
----
+<p align="center">· · ·</p>
 
 **AI Engineer.** Building things that think, learn, and ship to production.
 
@@ -26,9 +28,10 @@ Earlier I was making autonomous vehicles navigate farms at Boson Motors and buil
 
 MS in Software Engineering from Arizona State. Published at IEEE. Certified on AWS, OCI, and IBM AI.
 
----
+<p align="center">· · ·</p>
 
-### Stack
+### stack
+<sub>tools, languages, and runtimes I lean on</sub>
 
 ```
 ai/ml          GraphRAG, Agentic Workflows, Context Engineering, Vector Search, LLM Eval, Confidence Calibration, MCP
@@ -39,16 +42,19 @@ web            Next.js, React, Flask, Hono
 observability  Langfuse, Axiom, Sentry
 ```
 
----
+<p align="center">· · ·</p>
 
-### Now
+### now
+<sub>currently in my head</sub>
 
 - **long-horizon agent state.** How agents remember, forget, and recover across sessions.
 - **agentic AI research.** 8-phase study on how agents behave with progressive tool access.
 - **GraphRAG at scale.** Making it actually work across hundreds of classification categories.
 
----
+<p align="center">· · ·</p>
 
-### Links
+### links
 
 [varunm.com](https://www.varunm.com/) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/menon-varun/) &nbsp;·&nbsp; [@Itious_](https://x.com/Itious_) &nbsp;·&nbsp; [varunmenoff@gmail.com](mailto:varunmenoff@gmail.com)
+
+<p align="center"><sub><i>↳ open to interesting problems.</i></sub></p>
