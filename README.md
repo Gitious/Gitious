@@ -34,30 +34,67 @@ MS in Software Engineering from Arizona State. Published at IEEE. Certified on A
 
 ## <kbd>&nbsp;02&nbsp;</kbd>&nbsp;&nbsp;STACK
 
-```
-ai/ml          │  GraphRAG · Agentic Workflows · Context Engineering · Vector Search · LLM Eval · Confidence Calibration · MCP
-languages      │  Python · TypeScript · JavaScript · Rust · SQL · C++
-infra          │  AWS · GCP · Docker · Terraform · Temporal · Kafka
-data           │  PostgreSQL · pgvector · Pinecone · Neo4j · Redis
-web            │  Next.js · React · Flask · Hono
-observability  │  Langfuse · Axiom · Sentry
-```
+<table>
+  <tr>
+    <td width="160"><b>ai/ml</b></td>
+    <td>GraphRAG&nbsp;·&nbsp;Agentic Workflows&nbsp;·&nbsp;Context Engineering&nbsp;·&nbsp;Vector Search&nbsp;·&nbsp;LLM Eval&nbsp;·&nbsp;Confidence Calibration&nbsp;·&nbsp;MCP</td>
+  </tr>
+  <tr>
+    <td><b>languages</b></td>
+    <td>Python&nbsp;·&nbsp;TypeScript&nbsp;·&nbsp;JavaScript&nbsp;·&nbsp;Rust&nbsp;·&nbsp;SQL&nbsp;·&nbsp;C++</td>
+  </tr>
+  <tr>
+    <td><b>infra</b></td>
+    <td>AWS&nbsp;·&nbsp;GCP&nbsp;·&nbsp;Docker&nbsp;·&nbsp;Terraform&nbsp;·&nbsp;Temporal&nbsp;·&nbsp;Kafka</td>
+  </tr>
+  <tr>
+    <td><b>data</b></td>
+    <td>PostgreSQL&nbsp;·&nbsp;pgvector&nbsp;·&nbsp;Pinecone&nbsp;·&nbsp;Neo4j&nbsp;·&nbsp;Redis</td>
+  </tr>
+  <tr>
+    <td><b>web</b></td>
+    <td>Next.js&nbsp;·&nbsp;React&nbsp;·&nbsp;Flask&nbsp;·&nbsp;Hono</td>
+  </tr>
+  <tr>
+    <td><b>observability</b></td>
+    <td>Langfuse&nbsp;·&nbsp;Axiom&nbsp;·&nbsp;Sentry</td>
+  </tr>
+</table>
 
 <p align="center">· · ·</p>
 
 ## <kbd>&nbsp;03&nbsp;</kbd>&nbsp;&nbsp;NOW
 
-```
-01.  agent memory     long-horizon state, how agents remember and recover across sessions
-02.  agentic AI       8-phase study on how agents behave with progressive tool access
-03.  graphrag         scaling to hundreds of classification categories
-```
+<table>
+  <tr>
+    <td width="60" align="center"><kbd>&nbsp;01&nbsp;</kbd></td>
+    <td width="190"><b>agent memory</b></td>
+    <td><i>long-horizon state, how agents remember and recover across sessions</i></td>
+  </tr>
+  <tr>
+    <td align="center"><kbd>&nbsp;02&nbsp;</kbd></td>
+    <td><b>agentic AI</b></td>
+    <td><i>8-phase study on how agents behave with progressive tool access</i></td>
+  </tr>
+  <tr>
+    <td align="center"><kbd>&nbsp;03&nbsp;</kbd></td>
+    <td><b>graphrag</b></td>
+    <td><i>scaling to hundreds of classification categories</i></td>
+  </tr>
+</table>
 
 <p align="center">· · ·</p>
 
 ## <kbd>&nbsp;04&nbsp;</kbd>&nbsp;&nbsp;LINKS
 
-[`varunm.com`](https://www.varunm.com/) &nbsp;&nbsp; [`linkedin`](https://www.linkedin.com/in/menon-varun/) &nbsp;&nbsp; [`@Itious_`](https://x.com/Itious_) &nbsp;&nbsp; [`email`](mailto:varunmenoff@gmail.com)
+<table>
+  <tr>
+    <td align="center"><a href="https://www.varunm.com/"><kbd>&nbsp;&nbsp;portfolio&nbsp;&nbsp;</kbd></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/menon-varun/"><kbd>&nbsp;&nbsp;linkedin&nbsp;&nbsp;</kbd></a></td>
+    <td align="center"><a href="https://x.com/Itious_"><kbd>&nbsp;&nbsp;x&nbsp;·&nbsp;@Itious_&nbsp;&nbsp;</kbd></a></td>
+    <td align="center"><a href="mailto:varunmenoff@gmail.com"><kbd>&nbsp;&nbsp;email&nbsp;&nbsp;</kbd></a></td>
+  </tr>
+</table>
 
 <br>
 
