@@ -7,9 +7,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=900&color=8A8A8A&center=true&vCenter=true&width=820&height=36&lines=Founding+engineer+%40+Cognisos;Architecture+for+intelligent+systems;From+farms+to+agent+memory"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=900&color=6B6B6B&center=true&vCenter=true&width=820&height=36&lines=Founding+engineer+%40+Cognisos;Architecture+for+intelligent+systems;From+farms+to+agent+memory"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=900&color=6B6B6B&center=true&vCenter=true&width=820&height=36&lines=Founding+engineer+%40+Cognisos;Architecture+for+intelligent+systems;From+farms+to+agent+memory" alt="tagline"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=900&color=8A8A8A&center=true&vCenter=true&width=820&height=36&lines=Founding+engineer+%40+Cognisos;Architecture+for+intelligent+systems;AI+has+amnesia.+Working+on+the+cure."/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=900&color=6B6B6B&center=true&vCenter=true&width=820&height=36&lines=Founding+engineer+%40+Cognisos;Architecture+for+intelligent+systems;AI+has+amnesia.+Working+on+the+cure."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3200&pause=900&color=6B6B6B&center=true&vCenter=true&width=820&height=36&lines=Founding+engineer+%40+Cognisos;Architecture+for+intelligent+systems;AI+has+amnesia.+Working+on+the+cure." alt="tagline"/>
 </picture>
 
 <sub><i>Two-time founding engineer. Building AI that remembers.</i></sub>
