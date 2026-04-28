@@ -20,7 +20,7 @@
 
 Currently a founding engineer at **[Cognisos](https://cognisos.ai)**, working on the architecture for intelligent systems: AI that remembers, reasons, and evolves at runtime. Most of the day-to-day is the unglamorous founding-engineer mix. Setting the technical foundation, owning architecture across the stack, and shipping research into production.
 
-Before this I was the founding AI engineer at **Legix**, where I built the entire AI stack from scratch: GraphRAG pipelines, agentic workflows, multi-tenant learning systems, and end-to-end automation running in prod at 94.2% accuracy. That work helped us raise $1.6M pre-seed.
+Before this I was the founding AI engineer at **[Legix](https://www.legix.ai)**, where I built the entire AI stack from scratch: GraphRAG pipelines, agentic workflows, multi-tenant learning systems, and end-to-end automation running in prod at 94.2% accuracy. That work helped us raise $1.6M pre-seed.
 
 Earlier I was making autonomous vehicles navigate farms at Boson Motors and building meeting transcription bots that handle 10+ concurrent sessions at Auto BIM Route.
 
